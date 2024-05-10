@@ -14,7 +14,7 @@ const Header = ({ cart, removeFromCart, increaseQuantity, decreaseQuantity, clea
             </a>
           </div>
 
-          <nav className="col-md-6 a mt-5 d-flex align-items-start justify-content-end">
+          <nav className="col-md-6 a mt-5 d-flex align-items-start justify-content-center justify-content-md-end ">
             <div className="carrito">
               <img
                 className="img-fluid"
